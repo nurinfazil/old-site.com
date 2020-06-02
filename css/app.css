@@ -11,6 +11,17 @@
     color: white;
 }
 
+h1 {
+    font-size: 6rem;
+    position: relative;
+    margin-bottom: 35rem;
+    font-style: italic;
+}
+
+a, h2 {
+    margin-top: 0rem;
+}
+
 footer {
     position: fixed;
     bottom: 0;
@@ -31,6 +42,17 @@ footer {
 
 img {
     padding: 1rem;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    border-color: white;
+    border-width: 2rem;
+}
+
+#logo {
+    height: 8rem;
+    opacity: 50%;
 }
 
 .container{
@@ -58,4 +80,8 @@ img {
 
 .bring-front{
     z-index: 3;
+}
+
+.fixed {
+    position: fixed;
 }
