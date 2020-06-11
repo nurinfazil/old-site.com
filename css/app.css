@@ -14,12 +14,29 @@
 h1 {
     font-size: 6rem;
     position: relative;
-    margin-bottom: 35rem;
-    font-style: italic;
 }
 
-a, h2 {
+h2 {
     margin-top: 0rem;
+    font-size: 1.8rem;
+    text-align: center;
+}
+
+a{
+    font-size: 2rem;
+    padding: 0.5rem;
+}
+
+a:hover, #email:hover{
+    color: blueviolet;
+}
+
+a:link {
+    color: white;
+}
+
+.name {
+    color: blueviolet
 }
 
 footer {
