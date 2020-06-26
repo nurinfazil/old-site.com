@@ -1,3 +1,1 @@
-Personal Website: nurinfazil.github.io
-
-Still in the works! Stay tuned :)
+This is the repo of my old site
